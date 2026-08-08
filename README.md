@@ -204,5 +204,3 @@ Java Backend Engineer | Spring Boot | Microservices | AI/ML
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and provide feedback.
-
-I intentionally positioned this as a **Java backend + AI/ML integration project**, rather than making it sound like a pure data-science project. That fits your existing Java/Spring Boot background much better and makes the GitHub project more credible for the roles you're targeting.
